@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 ali
 jasem
 naser
 -
+=======
+sdzdfasd
+sdadasd
+sdasadsd
+fdfghf
+jfgk
+jhafsd
+>>>>>>> lol
